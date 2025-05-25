@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>未来の魔法探偵ちゃん - 証拠検証ページ</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #fcfcfc; max-width: 800px; margin: auto; }
+    h1 { color: #38a; }
+    .hash, .sig { font-family: monospace; word-break: break-all; background: #eee; padding: 6px; }
+  </style>
+</head>
+<body>
+  <h1>未来の魔法探偵ちゃん - 証拠情報</h1>
+  <p><b>Split構文ID:</b> split_20250526_002</p>
+
+  <p><b>証拠ハッシュ:</b></p>
+  <div class="hash">d10fc4ee32b6e93...（仮）</div>
+
+  <p><b>電子署名ファイル:</b> <a href="split_20250526_002.sig">split_20250526_002.sig</a></p>
+  <p><b>公開鍵:</b> <a href="public_key.pem">public_key.pem</a></p>
+  <p>このSplitログが改ざんされていないことを、上記署名と公開鍵を使って検証できます。</p>
+
+  <hr>
+  <p><i>Powered by WAPI証拠署名エンジン</i></p>
+</body>
+</html>
