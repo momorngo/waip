@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>未来の魔法探偵ちゃん - Split構文ログ</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #fefefe; max-width: 800px; margin: auto; }
+    h1 { color: #c048ec; }
+    .block { margin-bottom: 1em; }
+    .label { font-weight: bold; color: #444; }
+    .value { margin-left: 1em; }
+    .hash { font-family: monospace; background: #eee; padding: 4px; }
+  </style>
+</head>
+<body>
+  <h1>未来の魔法探偵ちゃん - Split構文ログ</h1>
+
+  <div class="block"><span class="label">Scene:</span><span class="value">ネオンが揺れる未来都市の屋上</span></div>
+  <div class="block"><span class="label">Character:</span><span class="value">ミライ・シリウス</span></div>
+  <div class="block"><span class="label">Emotion:</span><span class="value">好奇心いっぱいの表情</span></div>
+  <div class="block"><span class="label">Action:</span><span class="value">魔法ステッキを振ってホログラムを展開し、犯人の痕跡を追う</span></div>
+  <div class="block"><span class="label">Voice:</span><span class="value">「フフッ、足跡はちゃんと残ってるよ――犯人はすぐそこ！」</span></div>
+  <div class="block"><span class="label">BGM:</span><span class="value">近未来ミステリーストリングス</span></div>
+
+  <hr>
+
+  <h2>証拠情報</h2>
+  <div class="block"><span class="label">証拠ハッシュ:</span><span class="hash">d10fc4ee32b6e93...（仮）</span></div>
+  <div class="block"><span class="label">署名ファイル:</span><span class="value"><a href="split_20250526_002.sig">split_20250526_002.sig</a></span></div>
+  <div class="block"><span class="label">公開鍵:</span><span class="value"><a href="public_key.pem">public_key.pem</a></span></div>
+  <div class="block"><span class="label">Split構文JSON:</span><span class="value"><a href="split_20250526_002.json">split_20250526_002.json</a></span></div>
+  <div class="block"><span class="label">PDF証拠ファイル:</span><span class="value"><a href="split_20250526_002.pdf">split_20250526_002.pdf</a></span></div>
+
+  <hr>
+  <p>本Split構文はWAPIによって構成・署名・記録されています。<br>
+  改ざんされていないことを<a href="proof.html">こちらのページ</a>で検証できます。</p>
+</body>
+</html>
+
